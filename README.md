@@ -1,5 +1,5 @@
 --- 
-
+ 
 # Crud com Python com framework Flask e SQL Server
 
 ---
